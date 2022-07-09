@@ -1,0 +1,105 @@
+body{
+    font-family: 'Courgette', cursive;
+    font-family: 'Mina', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Courgette', cursive;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Mina', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+}
+p{
+    width: 70%;
+    font-size: 20px;
+    border: 10px 10px;
+}
+/* section 1 */
+
+
+.first-section{
+    display: flex;
+    padding: 10%;
+    background-image: url(./Image/bgcolor1.jpg);
+    background-repeat: no-repeat;
+   
+}
+.first-section div h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.first-section div h2{
+    font-size: 30px;
+    color: orange;
+}
+.first-section div img{
+   margin-left: 20%;
+}
+span{
+    color: rgb(245, 133, 152);
+    font-weight: 700;
+}
+audio{
+    color: palevioletred;
+}
+
+/* section 2 */
+
+.secend-section{
+    background-image: url(./Image/bgimage3.jpg); 
+}
+.secend-section h1{
+    color: cornflowerblue;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.secend-div{
+    display: flex;
+    padding: 10%;
+}
+.secend-section div p{
+    padding-left: 30%;
+    padding-top: 30px;
+    
+}
+
+
+.third-section{
+    background-image: url(./Image/Wave-10s-1076px.png);
+    background-repeat: no-repeat; 
+    background-size: 100%; 
+}
+.positon{
+    padding: 150px;
+}
+
+.third-section div img{
+    padding: 40px;
+}
+
+.third-div{
+    display: flex;
+}
+
+.Question{
+    text-align: center;
+    font-size: 50px;
+}
+.center{
+    text-align: center;
+}
+.center a{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+
+

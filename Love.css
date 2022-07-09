@@ -1,0 +1,40 @@
+body{
+    background-image: url(./Image/Speedline-2s-1920px.png);
+    text-align: center;   
+}
+
+.text{
+    padding: 150px;
+    color: rgb(252, 0, 96);
+}
+.text a{
+    background-color: rgb(10, 146, 224);
+    padding: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+}
+section{
+    display: flex;
+}
+h1{
+    color: rgb(241, 88, 195);
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+footer{
+    background-color: rgb(17, 25, 54);
+    color: white;
+    padding-bottom: 5%;  
+    text-align: center;
+    padding-top: 5%;
+}
+
+footer p{
+    font-size: 20px;
+}
+footer h3{
+    font-size: 35px;
+}
