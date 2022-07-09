@@ -71,6 +71,7 @@ audio{
     background-image: url(./Image/Wave-10s-1076px.png);
     background-repeat: no-repeat; 
     background-size: 100%; 
+    padding-bottom: 5%;
 }
 .positon{
     padding: 150px;
@@ -98,8 +99,16 @@ audio{
     background-color: aqua;
     padding: 10px;
     border-radius: 20px;
+    margin-bottom: 5%;
 }
 
+footer h1{
+    text-align: center;
+    font-size: 35px;
+    background-color: aquamarine;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 
 
 
